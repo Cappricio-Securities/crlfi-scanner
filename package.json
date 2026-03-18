@@ -1,6 +1,6 @@
 {
   "name": "crlfi-scanner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CRLFISCANNER is a lightweight and powerful CLI tool designed for bug bounty hunters and penetration testers to automatically detect CRLF injection vulnerabilities through payload-based scanning and header analysis.",
   "homepage": "https://github.com/Cappricio-Securities/crlfi-scanner",
   "main": "crlfiscanner.js",

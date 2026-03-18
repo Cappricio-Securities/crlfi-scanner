@@ -6,7 +6,7 @@ CRLFISCANNER is a professional Node.js CLI tool for detecting CRLF Injection vul
 
 ![Logo](https://cappriciosec.com/admin_university/university_automation/images/img_69baab83600993.37380383.png)
 
-[![npm version](https://img.shields.io/npm/v/crlfiscanner?style=for-the-badge&color=00ff41)](https://www.npmjs.com/package/crlfiscanner)
+[![npm version](https://img.shields.io/npm/v/crlfi-scanner?style=for-the-badge&color=00ff41)](https://www.npmjs.com/package/crlfiscanner)
 [![MIT License](https://img.shields.io/badge/License-MIT-00ff41?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 [![Node Version](https://img.shields.io/badge/Node.js-v14+-00ff41?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 
