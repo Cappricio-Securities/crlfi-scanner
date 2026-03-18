@@ -1,0 +1,68 @@
+{
+  "name": "crlfi-scanner",
+  "version": "1.0.0",
+  "description": "CRLFISCANNER is a lightweight and powerful CLI tool designed for bug bounty hunters and penetration testers to automatically detect CRLF injection vulnerabilities through payload-based scanning and header analysis.",
+  "homepage": "https://github.com/Cappricio-Securities/crlfi-scanner",
+  "main": "crlfiscanner.js",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cappricio-Securities/crlfi-scanner.git"
+  },
+  "scripts": {
+    "start": "node crlfiscanner.js"
+  },
+  "bin": {
+    "crlfiscanner": "./crlfiscanner.js",
+    "crlfi-scanner": "./crlfiscanner.js"
+  },
+  "readme": "README.md",
+  "author": {
+    "name": "karthikeyan V (karthithehacker)",
+    "email": "contact@karthithehacker.com",
+    "url": "https://karthithehacker.com"
+  },
+  "keywords": [
+    "crlf",
+    "crlfi",
+    "crlf injection",
+    "crlf scanner",
+    "header injection",
+    "response splitting",
+    "http header injection",
+    "cookie injection",
+    "bug bounty tool",
+    "bug bounty automation",
+    "top bug bounty tools",
+    "best bug bounty tools",
+    "web penetration testing",
+    "pentesting tools",
+    "recon automation",
+    "url scanner",
+    "vulnerability scanner",
+    "web security",
+    "cybersecurity",
+    "infosec",
+    "ethical hacking",
+    "ethical hacking tools",
+    "bugbounty",
+    "security testing tool",
+    "cappriciosec",
+    "cappricio securities",
+    "karthithehacker"
+  ],
+  "files": [
+    "crlfiscanner.js",
+    "includes"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cappricio-Securities/crlfi-scanner/issues"
+  },
+  "dependencies": {
+    "axios": "^1.13.6",
+    "chalk": "^4.1.2",
+    "lowdb": "^1.0.0",
+    "yargs": "^17.7.1"
+  }
+}
